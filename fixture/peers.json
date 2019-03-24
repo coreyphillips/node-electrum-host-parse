@@ -1,144 +1,87 @@
 {
-  "HOdlcoin": [],
-  "BitcoinCash": [
-    "electroncash.cascharia.com s50002",
-    "bch.arihanc.com t52001 s52002",
-    "jelectrum-cash.1209k.com s t",
-    "abc.vom-stausee.de t52001 s52002",
-    "abc1.hsmiths.com t60001 s60002",
-    "electroncash.checksum0.com s t",
-    "electron.jns.im s t",
-    "electrumx-cash.1209k.com s t"
-  ],
-  "BitcoinSegwit": [
+  "bitcoin": [
     "btc.smsys.me s995",
-    "E-X.not.fyi s t",
     "elec.luggs.co s443",
-    "electrum.vom-stausee.de s t",
-    "electrum3.hachre.de s t",
     "electrum.hsmiths.com s t",
     "helicarrier.bauerj.eu s t",
-    "node.arihanc.com s t"
+    "81-7-10-251.blue.kundencontroller.de s t",
+    "MEADS.hopto.org s t",
+    "VPS.hsmiths.com s t",
+    "b.ooze.cc s t",
+    "bitcoin.corgi.party s t",
+    "bitcoins.sk s t",
+    "btc.cihar.com s t",
+    "btc.xskyx.net s t",
+    "cashyes.zapto.org s t",
+    "currentlane.lovebitco.in s t",
+    "daedalus.bauerj.eu s t",
+    "dedi.jochen-hoenicke.de s t",
+    "dragon085.startdedicated.de s t",
+    "e-1.claudioboxx.com s t",
+    "e.keff.org s t",
+    "electrum-server.ninja s t",
+    "electrum-unlimited.criptolayer.net s t",
+    "electrum.eff.ro s t",
+    "electrum.festivaldelhumor.org s t",
+    "electrum.leblancnet.us s t",
+    "electrum.mindspot.org s t",
+    "electrum.qtornado.com s t",
+    "electrum.taborsky.cz s t",
+    "electrum.villocq.com s t",
+    "electrum2.eff.ro s t",
+    "electrum2.villocq.com s t,",
+    "electrum3.hachre.de s t",
+    "electrumx.bot.nu s t",
+    "electrumx.ddns.net s t",
+    "electrumx.ftp.sh s t",
+    "electrumx.ml s t",
+    "electrumx.nmdps.net s t",
+    "electrumx.soon.it s t",
+    "elx01.knas.systems s t",
+    "enode.duckdns.org s t",
+    "erbium1.sytes.net s t",
+    "fedaykin.goip.de s t",
+    "fn.48.org s t",
+    "icarus.tetradrachm.net s t",
+    "kirsche.emzy.de s t",
+    "ndnd.selfhost.eu s t",
+    "oneweek.duckdns.org s t",
+    "orannis.com s t",
+    "rbx.curalle.ovh s t",
+    "tardis.bauerj.eu s t",
+    "technetium.network s t",
+    "tomscryptos.com s t",
+    "ulrichard.ch s t",
+    "us.electrum.be s t",
+    "vmd27610.contaboserver.net s t",
+    "vmd30612.contaboserver.net s t",
+    "xray587.startdedicated.de s t",
+    "yuio.top s t"
   ],
-  "BitcoinGold": [],
-  "BitcoinGoldTestnet": [],
-  "BitcoinGoldRegtest": [],
-  "Emercoin": [],
-  "BitcoinCashTestnet": [
-    "electrum-testnet-abc.criptolayer.net s50112",
-    "bchtestnet.arihanc.com t53001 s53002"
-  ],
-  "BitcoinSegwitTestnet": [
-    "electrum.akinbo.org s t",
+  "bitcoinTestnet": [
+    "testnet.qtornado.com t51001 s51002",
+    "electrumx.kekku.li t51001 s51002",
     "testnet.hsmiths.com t53011 s53012",
-    "testnetnode.arihanc.com s t"
+    "testnet1.bauerj.eu t50001 s50002"
   ],
-  "BitcoinSegwitRegtest": [],
-  "BitcoinNolnet": [],
-  "Litecoin": [
+  "litecoin": [
+    "backup.electrum-ltc.org t50001 s443",
+    "e-1.claudioboxx.com t50003 s50004",
+    "e-3.claudioboxx.com t50003 s50004",
     "elec.luggs.co s444",
-    "electrum-ltc.bysh.me s t",
-    "electrum-ltc.ddns.net s t",
-    "electrum-ltc.wilv.in s t",
-    "electrum.cryptomachine.com p1000 s t",
-    "electrum.ltc.xurious.com s t"
+    "electrum-ltc.bysh.me t50001 s50002",
+    "electrum-ltc.klippb.org s50002",
+    "electrum-ltc.villocq.com t60001 s60002",
+    "electrum-ltc.wilv.in t50001 s50002",
+    "electrum.leblancnet.us t50003 s50004",
+    "electrum.ltc.xurious.com t50001 s50002",
+    "electrumx.nmdps.net t9433 s9434",
+    "ltc01.knas.systems t50003 s50004",
+    "node.ispol.sk t50003 s50004",
+    "technetium.network s50003"
   ],
-  "LitecoinTestnet": [
-    "electrum-ltc.bysh.me s t",
-    "electrum.ltc.xurious.com s t"
-  ],
-  "Viacoin": [
-    "vialectrum.bitops.me s t",
-    "server.vialectrum.org s t",
-    "vialectrum.viacoin.net s t",
-    "viax1.bitops.me s t"
-  ],
-  "ViacoinTestnet": [
-    "vialectrum.bysh.me s t"
-  ],
-  "ViacoinTestnetSegWit": [],
-  "Namecoin": [
-    "elec.luggs.co s446"
-  ],
-  "NamecoinTestnet": [],
-  "Dogecoin": [],
-  "DogecoinTestnet": [],
-  "Dash": [
-    "electrum.dash.org s t",
-    "electrum.masternode.io s t",
-    "electrum-drk.club s t",
-    "dashcrypto.space s t",
-    "electrum.dash.siampm.com s t"
-  ],
-  "DashTestnet": [
-    "electrum.dash.siampm.com s t"
-  ],
-  "Argentum": [],
-  "ArgentumTestnet": [],
-  "DigiByte": [],
-  "DigiByteTestnet": [],
-  "FairCoin": [
-    "electrum.faircoin.world s",
-    "electrumfair.punto0.org s"
-  ],
-  "Zcash": [],
-  "SnowGem": [],
-  "BitcoinZ": [],
-  "Hush": [],
-  "Zclassic": [],
-  "Koto": [
-    "fr.kotocoin.info s t",
-    "electrum.kotocoin.info s t"
-  ],
-  "Komodo": [],
-  "Monaize": [],
-  "Einsteinium": [],
-  "Blackcoin": [],
-  "Bitbay": [],
-  "Peercoin": [],
-  "Reddcoin": [],
-  "Vertcoin": [],
-  "Monacoin": [
-    "electrumx.tamami-foundation.org s t",
-    "electrumx2.tamami-foundation.org s t",
-    "electrumx3.tamami-foundation.org s t",
-    "electrumx1.monacoin.nl s t",
-    "electrumx2.monacoin.nl s t",
-    "electrumx1.monacoin.ninja s t",
-    "electrumx2.monacoin.ninja s t",
-    "electrumx1.movsign.info t",
-    "electrumx2.movsign.info s t",
-    "electrum-mona.bitbank.cc s t"
-  ],
-  "MonacoinTestnet": [
-    "electrumx1.testnet.monacoin.ninja s t",
-    "electrumx1.testnet.monacoin.nl s t"
-  ],
-  "Crown": [
-    "sgp-crwseed.crowndns.info s t",
-    "blr-crwseed.crowndns.info s t",
-    "sfo-crwseed.crowndns.info s t",
-    "nyc-crwseed.crowndns.info s t",
-    "ams-crwseed.crowndns.info s t",
-    "tor-crwseed.crowndns.info s t",
-    "lon-crwseed.crowndns.info s t",
-    "fra-crwseed.crowndns.info s t"
-  ],
-  "Fujicoin": [],
-  "Neblio": [],
-  "Bitzeny": [],
-  "CanadaeCoin": [],
-  "Denarius": [],
-  "DenariusTestnet": [],
-  "Sibcoin": [],
-  "Chips": [],
-  "Feathercoin": [
-    "electrumx-ch-1.feathercoin.ch s t"
-  ],
-  "Newyorkcoin": [],
-  "Bitcore": [],
-  "BitcoinAtom": [],
-  "Decred": [],
-  "DecredTestnet": [],
-  "Axe": []
+  "litecoinTestnet": [
+    "electrum-ltc.bysh.me s51002 t51001",
+    "electrum.ltc.xurious.com s51002 t51001"
+  ]
 }
