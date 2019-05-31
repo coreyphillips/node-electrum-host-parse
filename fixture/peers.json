@@ -7,7 +7,11 @@
     "oneweek.duckdns.org s t"
   ],
   "bitcoinTestnet": [
-    "testnet.hsmiths.com t53011 s53012"
+    "testnet.hsmiths.com t53011 s53012",
+    "testnet.qtornado.com t51001 s51002",
+    "testnet1.bauerj.eu t50001 s50002",
+    "tn.not.fyi t55001 s55002",
+    "bitcoin.cluelessperson.com t51001 s51002"
   ],
   "litecoin": [
     "electrum-ltc.bysh.me t50001 s50002",
